@@ -1,0 +1,22 @@
+
+#container {
+	width: 800px;
+	height: 500px;
+	border: 1px solid black;
+}
+
+#popup {
+	position: absolute;
+}
+
+#popup-header {
+	width: 100px;
+	height: 30px;
+	background: blue;
+}
+
+#popup-body {
+	width: 100px;
+	height: 100px;
+	background: red;
+}
