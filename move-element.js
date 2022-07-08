@@ -16,7 +16,6 @@ function moveElement(container, popup, popupHeader) {
     }, true);
 
     document.addEventListener('mousemove', function (event) {
-        event.preventDefault();
 
         const boundingClientRect = container.getBoundingClientRect();
 
